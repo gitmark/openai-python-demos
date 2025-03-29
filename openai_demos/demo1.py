@@ -2,7 +2,7 @@
 """
 demo1.py - Demonstrates basic usage of the OpenAI Python API client.
 
-This script is uses an example from the OpenAI's github openai-python repository README.
+This script uses an example from the OpenAI's github openai-python repository README.
 It shows how to initialize the client with an API key (sourced from an environment variable),
 make a request to generate a response using a specified model, and print the resulting output.
 Additional comments have been added for educational purposes.

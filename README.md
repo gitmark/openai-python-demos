@@ -61,7 +61,7 @@ To run all the python demos execute:
 src/run_demos.sh
 ```
 
-The first python script this main script will call is demo1.py which asks the openai API to respond like a pirate, resulting the results similar to:
+The first python script this main script will call is demo1.py which asks the openai API to respond like a pirate, giving results similar to:
 
 Arrr, ye be usin' the `isinstance()` function fer that task, matey! Ye just need to provide the object and the class ye be checkin'. Here be the way to do it:
 
