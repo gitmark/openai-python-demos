@@ -15,7 +15,7 @@ else
 fi
 
 # Run the demo script
-python3 openai_demos/demo1.py
+python3 openai_demos/demo_01.py
 
 # Deactivate the virtual environment
 deactivate

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-demo1.py - Demonstrates basic usage of the OpenAI Python API client.
+demo_01.py - Demonstrates basic usage of the OpenAI Python API client.
 
 This script uses an example from the OpenAI's github openai-python repository README.
 It shows how to initialize the client with an API key (sourced from an environment variable),
