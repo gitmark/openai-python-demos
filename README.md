@@ -1,4 +1,4 @@
-# OpenAI API Python Demos
+# OpenAI Python API Demos
 
 This repository is dedicated to exploring and demonstrating the usage of [OpenAI's Python API](https://github.com/openai/openai-python). Here, you'll find a collection of examples, explanations, and demos that build on the official API examples.
 
@@ -18,7 +18,7 @@ pip install openai
 
 Ensure you have a working Python environment before installation.
 
-# [Demo Scripts](https://github.com/gitmark/openai-python-demos/blob/main/docs/demos.md)
+# [Demo Scripts](docs/demos.md)
 
 - **demo_01.py**: Response API.
 - **demo_02.py**: Chat Completion API
