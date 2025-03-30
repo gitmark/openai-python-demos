@@ -1,6 +1,6 @@
 # Examples from the OpenAI Python API library
 
-The README.md file from [OpenAI's Python API](https://github.com/openai/openai-python) GitHub repo provides several excellent introductory examples for how to use the OpenAI API library. These examples are summarized below with each one given a unique demo number to help identify the excerpts in later dicussions. OpenAI's code and documentation referenced here is provided by OpenAI under the license found in [openai-license.txt](openai-license.txt).
+The README.md file from [OpenAI's Python API](https://github.com/openai/openai-python) GitHub repo provides several excellent introductory examples for how to use the OpenAI API library. These examples are summarized below with each one given a unique demo number to help identify the excerpts in later dicussions. OpenAI's code and documentation referenced here is provided by OpenAI under the license found in [OpenAI-LICENSE](OpenAI-LICENSE).
 
 ## Demo 01 - [Responses API](https://platform.openai.com/docs/api-reference/responses)
 

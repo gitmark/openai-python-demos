@@ -18,7 +18,7 @@ pip install openai
 
 Ensure you have a working Python environment before installation.
 
-# [Demo Scripts](https://github.com/gitmark/openai-python-demos/docs/demos.md)
+# [Demo Scripts](https://github.com/gitmark/openai-python-demos/blob/main/docs/demos.md)
 
 - **demo_01.py**: Response API.
 - **demo_02.py**: Chat Completion API
