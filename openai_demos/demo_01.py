@@ -11,6 +11,7 @@ Additional comments have been added for educational purposes.
 import os
 from openai import OpenAI
 
+print("Demo 01 - Response API")
 # Initialize the OpenAI client with the API key.
 # The API key is retrieved from the environment variable 'OPENAI_API_KEY'.
 # This key is required for authenticating API requests.
@@ -32,4 +33,4 @@ response = client.responses.create(
 )
 
 # Print the generated output text to the console.
-print(response.output_text)
+print(response.output_text + "\n")

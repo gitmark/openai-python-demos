@@ -14,8 +14,9 @@ else
     source venv/bin/activate
 fi
 
-# Run the demo script
+# Run the demo scripts
 python3 openai_demos/demo_01.py
+python3 openai_demos/demo_02.py
 
 # Deactivate the virtual environment
 deactivate
