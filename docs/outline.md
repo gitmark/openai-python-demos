@@ -1,13 +1,48 @@
+# Introduction
 
-1. [OpenAI Python API library](https://github.com/openai/openai-python)
+This section provides a hands-on introduction to OpenAI's Python API library, highlighting what developers need to know to start using it effectively.
+
+The motivation behind this document is to help developers stay competitive as AI continues to transform the software industry—and many others. As traditional programming is increasingly complemented (or replaced) by rapidly evolving AI-powered techniques, it's crucial for developers to gain exposure to modern AI tools and workflows.
+
+The approach here is **learning by example**. We’ll focus on real, intuitive demos that show how AI services can be used alongside traditional programming practices.
+
+Our focus will remain on **industry-leading services**, **widely-used programming languages**, and **promising, trending techniques** that are shaping the future of software development.
+
+A key goal is to demonstrate how AI services can be used in a **complementary** way with existing programming knowledge—rather than replacing it entirely. Once the basics are covered and a solid foundation in AI programming is established, we’ll gradually move toward more advanced topics such as **agentic programming**, which will be defined and explored in more detail later.
+
+We’ve selected **OpenAI’s API** for the demos due to the company’s strong reputation as a leader in the AI space. For the programming language, we’ll use **Python**, given its widespread adoption in the AI community, ease of use, and strong ecosystem of libraries and community support.
+
+These choices make OpenAI’s Python API library a natural and practical focus for this learning journey. The library can be installed on most modern operating systems using a simple command:
+
+```
+pip install openai
+```
+
+In addition to working directly with the API, we’ll explore the official **OpenAI Python GitHub repository**, starting with its README. This documentation is well-written and comprehensive, and it includes helpful links to OpenAI’s broader documentation and tutorials.
+
+## Key Learning Objectives
+
+- Introduce OpenAI's Python API library with the essentials a developer needs to get started quickly.  
+- Help developers stay competitive as AI reshapes the software industry, driving the need for new skills and tools.  
+- Follow a "learn by example" approach using intuitive, practical code demonstrations.  
+- Focus on industry-leading services, widely adopted programming languages, and trending, impactful techniques.  
+- Highlight how traditional programming can complement AI services in real-world use cases.  
+- Build a strong foundation in AI programming before progressing to advanced topics like agentic programming.  
+- Use OpenAI's API for demos, chosen for its leadership in the AI space and strong ecosystem.  
+- Use Python as the demo language due to its popularity in AI, strong community support, and ease of use.  
+- Start by exploring OpenAI's official Python library and its well-documented GitHub repository.  
+- Work through key resources, including the README, API reference, and guides provided by OpenAI.
+
+## Resources We’ll Explore
+
+1. [OpenAI Python API Library](https://github.com/openai/openai-python)
 2. [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
 3. [Quickstart Guide (Chat API Mode)](https://platform.openai.com/docs/quickstart?api-mode=chat)
 4. [OpenAI Python Library Documentation](https://platform.openai.com/docs/libraries?language=python)
 5. [Guide to Agents](https://platform.openai.com/docs/guides/agents)
-6. [Python](https://www.python.org/)
-
------
-7. [OpenAI Python Demos](https://github.com/gitmark/openai-python-demos)
+6. [Python Language](https://www.python.org/)
+7. [Get an OpenAI API Key](https://www.youtube.com/watch?v=OB99E7Y1cMA)
+8. [OpenAI Python API Demos](https://github.com/gitmark/openai-python-demos)
 
 -----
 
