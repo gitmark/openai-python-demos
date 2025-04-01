@@ -55,7 +55,11 @@ The API provides access to a wide range of models and services, including:
 
 In this series, we'll start by exploring the **Responses API** and the **Chat Completions API**, which are at the core of many modern AI-powered applications.
 
-2. [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
+------
+# [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
+
+OpenAI's language-specific SDKs leverage their HTTP REST APIs behind the scenes to interact with the OpenAI platform. As fully documented in the link above, these REST APIs use JSON for both request and response messages, offering remarkable flexibility for structuring API data. Tools like Postman provide an excellent way to inspect the messages in detail, while deepening your understanding of how the APIs work.
+
 3. [Quickstart Guide (Chat API Mode)](https://platform.openai.com/docs/quickstart?api-mode=chat)
 4. [OpenAI Python Library Documentation](https://platform.openai.com/docs/libraries?language=python)
 5. [Guide to Agents](https://platform.openai.com/docs/guides/agents)
