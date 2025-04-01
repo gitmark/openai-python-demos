@@ -20,8 +20,8 @@ Ensure you have a working Python environment before installation.
 
 # [Demo Scripts](docs/demos.md)
 
-- **demo_01.py**: Response API.
-- **demo_02.py**: Chat Completion API
+- **demo_01.py**: Responses API.
+- **demo_02.py**: Chat Completions API
 - (etc.)
 
 
